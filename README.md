@@ -1,4 +1,4 @@
-# stack-queue
+# stack-queue implementaion in Java
 Implemention of Stack using Queue and Queue using Stack
 
 Stack implemention is done in two ways:
